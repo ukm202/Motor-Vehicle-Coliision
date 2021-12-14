@@ -1,6 +1,5 @@
 # Motor-Vehicle-Coliision
 
-
     This project aims to examine traffic accidents around the
   area of Brooklyn Bridge in New York City. Utilizing available
   public datasets, our goal is to analyze vehicle collisions
