@@ -1,0 +1,358 @@
+weather,factor,injured,killed,casualties
+fog,Following Too Closely,9,0,9
+fog,Traffic Control Disregarded,4,0,4
+fog,Unsafe Speed,2,0,2
+fog,Passing or Lane Usage Improper,0,0,0
+fog,Other Vehicular,2,0,2
+fog,Driver Inexperience,0,0,0
+fog,Unspecified,29,0,29
+fog,View Obstructed/Limited,3,0,3
+fog,Reaction to Uninvolved Vehicle,0,0,0
+fog,Fell Asleep,2,0,2
+fog,Outside Car Distraction,0,0,0
+fog,Fatigued/Drowsy,0,0,0
+fog,Driver Inattention/Distraction,22,0,22
+fog,Obstruction/Debris,0,0,0
+fog,Unsafe Lane Changing,8,0,8
+fog,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,4,0,4
+fog,Passenger Distraction,1,0,1
+fog,Alcohol Involvement,2,0,2
+fog,Traffic Control Device Improper/Non-Working,1,0,1
+fog,Brakes Defective,5,0,5
+fog,Backing Unsafely,0,0,0
+fog,Failure to Yield Right-of-Way,7,0,7
+fog,Turning Improperly,2,0,2
+fog,Passing Too Closely,3,0,3
+fog,Pavement Slippery,12,0,12
+partly-cloudy-day,Following Too Closely,392,0,392
+partly-cloudy-day,Traffic Control Disregarded,207,2,209
+partly-cloudy-day,Driverless/Runaway Vehicle,2,1,3
+partly-cloudy-day,Accelerator Defective,3,0,3
+partly-cloudy-day,Using On Board Navigation Device,0,0,0
+partly-cloudy-day,Unsafe Speed,116,2,118
+partly-cloudy-day,Tinted Windows,0,0,0
+partly-cloudy-day,Oversized Vehicle,14,0,14
+partly-cloudy-day,Passing or Lane Usage Improper,153,0,153
+partly-cloudy-day,Lane Marking Improper/Inadequate,2,0,2
+partly-cloudy-day,Other Lighting Defects,1,0,1
+partly-cloudy-day,Aggressive Driving/Road Rage,37,0,37
+partly-cloudy-day,Other Vehicular,138,0,138
+partly-cloudy-day,Driver Inexperience,111,1,112
+partly-cloudy-day,Texting,0,0,0
+partly-cloudy-day,Tow Hitch Defective,0,0,0
+partly-cloudy-day,Illnes,25,2,27
+partly-cloudy-day,Unspecified,1515,3,1518
+partly-cloudy-day,Pavement Defective,15,0,15
+partly-cloudy-day,Prescription Medication,1,0,1
+partly-cloudy-day,View Obstructed/Limited,65,0,65
+partly-cloudy-day,Lost Consciousness,26,0,26
+partly-cloudy-day,Reaction to Uninvolved Vehicle,80,1,81
+partly-cloudy-day,Fell Asleep,16,0,16
+partly-cloudy-day,Tire Failure/Inadequate,1,0,1
+partly-cloudy-day,Outside Car Distraction,11,0,11
+partly-cloudy-day,Fatigued/Drowsy,5,0,5
+partly-cloudy-day,Driver Inattention/Distraction,1492,1,1493
+partly-cloudy-day,Failure to Keep Right,10,0,10
+partly-cloudy-day,Obstruction/Debris,3,0,3
+partly-cloudy-day,Unsafe Lane Changing,77,0,77
+partly-cloudy-day,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,86,0,86
+partly-cloudy-day,Passenger Distraction,12,0,12
+partly-cloudy-day,Alcohol Involvement,50,0,50
+partly-cloudy-day,Traffic Control Device Improper/Non-Working,3,0,3
+partly-cloudy-day,Backing Unsafely,164,1,165
+partly-cloudy-day,Brakes Defective,52,0,52
+partly-cloudy-day,Eating or Drinking,0,0,0
+partly-cloudy-day,Failure to Yield Right-of-Way,716,1,717
+partly-cloudy-day,Animals Action,3,0,3
+partly-cloudy-day,Steering Failure,8,0,8
+partly-cloudy-day,Turning Improperly,110,1,111
+partly-cloudy-day,Glare,9,0,9
+partly-cloudy-day,Passing Too Closely,76,0,76
+partly-cloudy-day,Vehicle Vandalism,0,0,0
+partly-cloudy-day,Pavement Slippery,24,0,24
+partly-cloudy-day,Physical Disability,1,0,1
+partly-cloudy-day,Other Electronic Device,0,0,0
+partly-cloudy-day,Cell Phone (hands-free),0,0,0
+clear-day,Following Too Closely,405,0,405
+clear-day,Traffic Control Disregarded,255,1,256
+clear-day,Driverless/Runaway Vehicle,5,0,5
+clear-day,Accelerator Defective,2,0,2
+clear-day,Unsafe Speed,129,1,130
+clear-day,Tinted Windows,1,0,1
+clear-day,Oversized Vehicle,22,0,22
+clear-day,Passing or Lane Usage Improper,130,1,131
+clear-day,Lane Marking Improper/Inadequate,1,0,1
+clear-day,Other Lighting Defects,0,0,0
+clear-day,Aggressive Driving/Road Rage,36,0,36
+clear-day,Other Vehicular,110,0,110
+clear-day,Driver Inexperience,122,1,123
+clear-day,Tow Hitch Defective,0,0,0
+clear-day,Illnes,15,1,16
+clear-day,Unspecified,1554,4,1558
+clear-day,Pavement Defective,12,0,12
+clear-day,Prescription Medication,2,0,2
+clear-day,View Obstructed/Limited,80,0,80
+clear-day,Lost Consciousness,31,0,31
+clear-day,Reaction to Uninvolved Vehicle,54,1,55
+clear-day,Fell Asleep,19,0,19
+clear-day,Tire Failure/Inadequate,7,0,7
+clear-day,Outside Car Distraction,12,0,12
+clear-day,Fatigued/Drowsy,3,0,3
+clear-day,Driver Inattention/Distraction,1453,4,1457
+clear-day,Listening/Using Headphones,1,0,1
+clear-day,Failure to Keep Right,5,0,5
+clear-day,Obstruction/Debris,8,0,8
+clear-day,Unsafe Lane Changing,54,0,54
+clear-day,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,118,0,118
+clear-day,Passenger Distraction,25,0,25
+clear-day,Alcohol Involvement,29,0,29
+clear-day,Traffic Control Device Improper/Non-Working,1,0,1
+clear-day,Backing Unsafely,156,2,158
+clear-day,Brakes Defective,37,0,37
+clear-day,Eating or Drinking,0,0,0
+clear-day,Failure to Yield Right-of-Way,780,6,786
+clear-day,Animals Action,2,0,2
+clear-day,Turning Improperly,123,0,123
+clear-day,Glare,52,0,52
+clear-day,Steering Failure,3,0,3
+clear-day,Passing Too Closely,70,0,70
+clear-day,Vehicle Vandalism,0,0,0
+clear-day,Pavement Slippery,17,0,17
+clear-day,Physical Disability,1,0,1
+clear-day,Other Electronic Device,0,0,0
+rain,Following Too Closely,106,0,106
+rain,Traffic Control Disregarded,50,1,51
+rain,Driverless/Runaway Vehicle,1,0,1
+rain,Accelerator Defective,1,0,1
+rain,Windshield Inadequate,0,0,0
+rain,Unsafe Speed,40,0,40
+rain,Oversized Vehicle,0,0,0
+rain,Passing or Lane Usage Improper,13,0,13
+rain,Lane Marking Improper/Inadequate,2,0,2
+rain,Other Lighting Defects,0,0,0
+rain,Aggressive Driving/Road Rage,4,0,4
+rain,Other Vehicular,31,0,31
+rain,Driver Inexperience,19,0,19
+rain,Tow Hitch Defective,0,0,0
+rain,Illnes,6,0,6
+rain,Unspecified,482,5,487
+rain,Pavement Defective,1,0,1
+rain,View Obstructed/Limited,30,1,31
+rain,Lost Consciousness,11,0,11
+rain,Reaction to Uninvolved Vehicle,21,0,21
+rain,Fell Asleep,6,0,6
+rain,Tire Failure/Inadequate,2,0,2
+rain,Outside Car Distraction,6,0,6
+rain,Fatigued/Drowsy,3,0,3
+rain,Driver Inattention/Distraction,419,3,422
+rain,Failure to Keep Right,0,0,0
+rain,Obstruction/Debris,2,0,2
+rain,Unsafe Lane Changing,8,0,8
+rain,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,19,0,19
+rain,Passenger Distraction,2,0,2
+rain,Alcohol Involvement,24,0,24
+rain,Traffic Control Device Improper/Non-Working,3,0,3
+rain,Backing Unsafely,23,0,23
+rain,Brakes Defective,21,0,21
+rain,Headlights Defective,0,0,0
+rain,Failure to Yield Right-of-Way,251,1,252
+rain,Animals Action,3,0,3
+rain,Turning Improperly,36,0,36
+rain,Steering Failure,4,0,4
+rain,Glare,0,0,0
+rain,Passing Too Closely,12,0,12
+rain,Pavement Slippery,46,0,46
+cloudy,Following Too Closely,209,0,209
+cloudy,Traffic Control Disregarded,128,0,128
+cloudy,Accelerator Defective,2,0,2
+cloudy,Driverless/Runaway Vehicle,1,0,1
+cloudy,Windshield Inadequate,2,0,2
+cloudy,Unsafe Speed,75,1,76
+cloudy,Oversized Vehicle,6,0,6
+cloudy,Passing or Lane Usage Improper,65,0,65
+cloudy,Lane Marking Improper/Inadequate,4,0,4
+cloudy,Other Lighting Defects,1,0,1
+cloudy,Aggressive Driving/Road Rage,15,0,15
+cloudy,Other Vehicular,90,0,90
+cloudy,Driver Inexperience,54,0,54
+cloudy,Tow Hitch Defective,1,0,1
+cloudy,Illnes,8,0,8
+cloudy,Unspecified,805,4,809
+cloudy,Pavement Defective,3,0,3
+cloudy,View Obstructed/Limited,28,0,28
+cloudy,Lost Consciousness,5,0,5
+cloudy,Reaction to Uninvolved Vehicle,34,0,34
+cloudy,Fell Asleep,20,0,20
+cloudy,Tire Failure/Inadequate,0,0,0
+cloudy,Outside Car Distraction,5,0,5
+cloudy,Fatigued/Drowsy,2,0,2
+cloudy,Driver Inattention/Distraction,745,3,748
+cloudy,Failure to Keep Right,4,0,4
+cloudy,Obstruction/Debris,3,0,3
+cloudy,Unsafe Lane Changing,26,0,26
+cloudy,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,43,1,44
+cloudy,Passenger Distraction,1,0,1
+cloudy,Alcohol Involvement,42,0,42
+cloudy,Traffic Control Device Improper/Non-Working,2,0,2
+cloudy,Backing Unsafely,70,0,70
+cloudy,Brakes Defective,13,0,13
+cloudy,Eating or Drinking,0,0,0
+cloudy,Failure to Yield Right-of-Way,388,0,388
+cloudy,Animals Action,2,0,2
+cloudy,Turning Improperly,48,0,48
+cloudy,Steering Failure,4,0,4
+cloudy,Glare,1,0,1
+cloudy,Passing Too Closely,22,0,22
+cloudy,Vehicle Vandalism,0,0,0
+cloudy,Pavement Slippery,39,0,39
+cloudy,Physical Disability,2,0,2
+cloudy,Other Electronic Device,1,0,1
+sleet,Following Too Closely,1,0,1
+sleet,Traffic Control Disregarded,0,0,0
+sleet,Unsafe Speed,0,0,0
+sleet,Passing or Lane Usage Improper,0,0,0
+sleet,Unspecified,5,0,5
+sleet,View Obstructed/Limited,1,0,1
+sleet,Driver Inattention/Distraction,0,0,0
+sleet,Unsafe Lane Changing,0,0,0
+sleet,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1,0,1
+sleet,Brakes Defective,1,0,1
+sleet,Backing Unsafely,0,0,0
+sleet,Failure to Yield Right-of-Way,2,0,2
+sleet,Passing Too Closely,0,0,0
+sleet,Pavement Slippery,2,0,2
+clear-night,Following Too Closely,215,0,215
+clear-night,Traffic Control Disregarded,208,0,208
+clear-night,Driverless/Runaway Vehicle,2,0,2
+clear-night,Accelerator Defective,0,0,0
+clear-night,Using On Board Navigation Device,0,0,0
+clear-night,Unsafe Speed,143,5,148
+clear-night,Tinted Windows,0,0,0
+clear-night,Oversized Vehicle,4,0,4
+clear-night,Passing or Lane Usage Improper,91,0,91
+clear-night,Lane Marking Improper/Inadequate,3,0,3
+clear-night,Other Lighting Defects,7,0,7
+clear-night,Aggressive Driving/Road Rage,23,0,23
+clear-night,Other Vehicular,98,0,98
+clear-night,Driver Inexperience,56,1,57
+clear-night,Illnes,8,0,8
+clear-night,Unspecified,963,8,971
+clear-night,Pavement Defective,0,0,0
+clear-night,Prescription Medication,0,0,0
+clear-night,View Obstructed/Limited,39,0,39
+clear-night,Lost Consciousness,9,0,9
+clear-night,Reaction to Uninvolved Vehicle,42,0,42
+clear-night,Fell Asleep,27,0,27
+clear-night,Tire Failure/Inadequate,6,0,6
+clear-night,Outside Car Distraction,6,0,6
+clear-night,Fatigued/Drowsy,7,0,7
+clear-night,Driver Inattention/Distraction,930,1,931
+clear-night,Failure to Keep Right,6,0,6
+clear-night,Obstruction/Debris,4,0,4
+clear-night,Unsafe Lane Changing,41,0,41
+clear-night,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,55,0,55
+clear-night,Passenger Distraction,10,0,10
+clear-night,Alcohol Involvement,179,2,181
+clear-night,Traffic Control Device Improper/Non-Working,3,0,3
+clear-night,Backing Unsafely,57,0,57
+clear-night,Brakes Defective,32,0,32
+clear-night,Eating or Drinking,7,0,7
+clear-night,Failure to Yield Right-of-Way,515,2,517
+clear-night,Animals Action,2,0,2
+clear-night,Glare,3,0,3
+clear-night,Turning Improperly,58,1,59
+clear-night,Steering Failure,7,0,7
+clear-night,Passing Too Closely,31,0,31
+clear-night,Vehicle Vandalism,0,0,0
+clear-night,Pavement Slippery,11,0,11
+clear-night,Physical Disability,1,0,1
+clear-night,Other Electronic Device,0,0,0
+clear-night,Cell Phone (hands-free),0,0,0
+wind,Following Too Closely,1,0,1
+wind,Oversized Vehicle,0,0,0
+wind,Passing or Lane Usage Improper,0,0,0
+wind,Driver Inexperience,0,0,0
+wind,Unspecified,1,0,1
+wind,View Obstructed/Limited,0,0,0
+wind,Reaction to Uninvolved Vehicle,0,0,0
+wind,Driver Inattention/Distraction,5,0,5
+wind,Unsafe Lane Changing,0,0,0
+wind,Traffic Control Device Improper/Non-Working,0,0,0
+wind,Backing Unsafely,0,0,0
+wind,Failure to Yield Right-of-Way,0,0,0
+wind,Turning Improperly,2,0,2
+wind,Passing Too Closely,0,0,0
+partly-cloudy-night,Following Too Closely,165,0,165
+partly-cloudy-night,Traffic Control Disregarded,133,0,133
+partly-cloudy-night,Accelerator Defective,0,0,0
+partly-cloudy-night,Driverless/Runaway Vehicle,0,0,0
+partly-cloudy-night,Using On Board Navigation Device,0,0,0
+partly-cloudy-night,Unsafe Speed,78,1,79
+partly-cloudy-night,Tinted Windows,0,0,0
+partly-cloudy-night,Oversized Vehicle,2,0,2
+partly-cloudy-night,Passing or Lane Usage Improper,53,1,54
+partly-cloudy-night,Lane Marking Improper/Inadequate,0,0,0
+partly-cloudy-night,Other Lighting Defects,1,0,1
+partly-cloudy-night,Aggressive Driving/Road Rage,14,1,15
+partly-cloudy-night,Other Vehicular,76,0,76
+partly-cloudy-night,Driver Inexperience,40,0,40
+partly-cloudy-night,Texting,2,0,2
+partly-cloudy-night,Illnes,6,0,6
+partly-cloudy-night,Unspecified,751,5,756
+partly-cloudy-night,Pavement Defective,4,0,4
+partly-cloudy-night,View Obstructed/Limited,34,0,34
+partly-cloudy-night,Lost Consciousness,5,0,5
+partly-cloudy-night,Reaction to Uninvolved Vehicle,30,0,30
+partly-cloudy-night,Fell Asleep,15,0,15
+partly-cloudy-night,Tire Failure/Inadequate,0,0,0
+partly-cloudy-night,Outside Car Distraction,3,0,3
+partly-cloudy-night,Fatigued/Drowsy,8,0,8
+partly-cloudy-night,Driver Inattention/Distraction,611,2,613
+partly-cloudy-night,Failure to Keep Right,2,0,2
+partly-cloudy-night,Obstruction/Debris,2,0,2
+partly-cloudy-night,Unsafe Lane Changing,17,0,17
+partly-cloudy-night,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,43,0,43
+partly-cloudy-night,Passenger Distraction,13,1,14
+partly-cloudy-night,Alcohol Involvement,86,0,86
+partly-cloudy-night,Traffic Control Device Improper/Non-Working,9,0,9
+partly-cloudy-night,Backing Unsafely,38,1,39
+partly-cloudy-night,Brakes Defective,16,0,16
+partly-cloudy-night,Eating or Drinking,0,0,0
+partly-cloudy-night,Headlights Defective,4,0,4
+partly-cloudy-night,Failure to Yield Right-of-Way,313,0,313
+partly-cloudy-night,Animals Action,0,0,0
+partly-cloudy-night,Turning Improperly,58,0,58
+partly-cloudy-night,Steering Failure,5,0,5
+partly-cloudy-night,Glare,0,0,0
+partly-cloudy-night,Passing Too Closely,22,0,22
+partly-cloudy-night,Pavement Slippery,35,0,35
+partly-cloudy-night,Physical Disability,8,0,8
+partly-cloudy-night,Other Electronic Device,0,0,0
+snow,Following Too Closely,12,0,12
+snow,Traffic Control Disregarded,8,0,8
+snow,Driverless/Runaway Vehicle,0,0,0
+snow,Unsafe Speed,3,0,3
+snow,Oversized Vehicle,1,0,1
+snow,Passing or Lane Usage Improper,0,0,0
+snow,Lane Marking Improper/Inadequate,0,0,0
+snow,Aggressive Driving/Road Rage,1,0,1
+snow,Other Vehicular,1,0,1
+snow,Driver Inexperience,1,0,1
+snow,Unspecified,32,0,32
+snow,View Obstructed/Limited,4,0,4
+snow,Reaction to Uninvolved Vehicle,0,0,0
+snow,Fell Asleep,0,0,0
+snow,Outside Car Distraction,0,0,0
+snow,Driver Inattention/Distraction,25,0,25
+snow,Failure to Keep Right,0,0,0
+snow,Obstruction/Debris,0,0,0
+snow,Unsafe Lane Changing,0,0,0
+snow,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2,0,2
+snow,Alcohol Involvement,1,0,1
+snow,Backing Unsafely,3,0,3
+snow,Brakes Defective,5,0,5
+snow,Failure to Yield Right-of-Way,22,0,22
+snow,Turning Improperly,1,0,1
+snow,Steering Failure,0,0,0
+snow,Passing Too Closely,0,0,0
+snow,Pavement Slippery,23,0,23

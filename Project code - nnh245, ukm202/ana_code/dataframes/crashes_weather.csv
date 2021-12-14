@@ -1,0 +1,358 @@
+weather,factor,weather_count,weather_factor_count,frac
+fog,Following Too Closely,397,39,0.0982367758186398
+fog,Traffic Control Disregarded,397,6,0.015113350125944584
+fog,Unsafe Speed,397,10,0.02518891687657431
+fog,Passing or Lane Usage Improper,397,13,0.0327455919395466
+fog,Other Vehicular,397,11,0.027707808564231738
+fog,Driver Inexperience,397,6,0.015113350125944584
+fog,Unspecified,397,102,0.25692695214105793
+fog,View Obstructed/Limited,397,6,0.015113350125944584
+fog,Reaction to Uninvolved Vehicle,397,3,0.007556675062972292
+fog,Fell Asleep,397,5,0.012594458438287154
+fog,Outside Car Distraction,397,1,0.0025188916876574307
+fog,Fatigued/Drowsy,397,1,0.0025188916876574307
+fog,Driver Inattention/Distraction,397,76,0.19143576826196473
+fog,Obstruction/Debris,397,1,0.0025188916876574307
+fog,Unsafe Lane Changing,397,5,0.012594458438287154
+fog,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,397,2,0.005037783375314861
+fog,Passenger Distraction,397,1,0.0025188916876574307
+fog,Alcohol Involvement,397,4,0.010075566750629723
+fog,Traffic Control Device Improper/Non-Working,397,1,0.0025188916876574307
+fog,Brakes Defective,397,3,0.007556675062972292
+fog,Backing Unsafely,397,13,0.0327455919395466
+fog,Failure to Yield Right-of-Way,397,26,0.0654911838790932
+fog,Turning Improperly,397,5,0.012594458438287154
+fog,Passing Too Closely,397,17,0.042821158690176324
+fog,Pavement Slippery,397,40,0.10075566750629723
+partly-cloudy-day,Following Too Closely,23000,1406,0.0611304347826087
+partly-cloudy-day,Traffic Control Disregarded,23000,324,0.01408695652173913
+partly-cloudy-day,Accelerator Defective,23000,16,6.956521739130435E-4
+partly-cloudy-day,Driverless/Runaway Vehicle,23000,19,8.260869565217392E-4
+partly-cloudy-day,Using On Board Navigation Device,23000,1,4.347826086956522E-5
+partly-cloudy-day,Unsafe Speed,23000,230,0.01
+partly-cloudy-day,Tinted Windows,23000,2,8.695652173913044E-5
+partly-cloudy-day,Oversized Vehicle,23000,216,0.009391304347826087
+partly-cloudy-day,Passing or Lane Usage Improper,23000,991,0.043086956521739134
+partly-cloudy-day,Lane Marking Improper/Inadequate,23000,7,3.043478260869565E-4
+partly-cloudy-day,Other Lighting Defects,23000,2,8.695652173913044E-5
+partly-cloudy-day,Aggressive Driving/Road Rage,23000,88,0.0038260869565217392
+partly-cloudy-day,Other Vehicular,23000,555,0.024130434782608696
+partly-cloudy-day,Driver Inexperience,23000,396,0.017217391304347827
+partly-cloudy-day,Tow Hitch Defective,23000,3,1.3043478260869564E-4
+partly-cloudy-day,Texting,23000,1,4.347826086956522E-5
+partly-cloudy-day,Illnes,23000,29,0.0012608695652173913
+partly-cloudy-day,Unspecified,23000,6858,0.29817391304347823
+partly-cloudy-day,Pavement Defective,23000,28,0.001217391304347826
+partly-cloudy-day,Prescription Medication,23000,2,8.695652173913044E-5
+partly-cloudy-day,View Obstructed/Limited,23000,206,0.008956521739130434
+partly-cloudy-day,Lost Consciousness,23000,21,9.130434782608696E-4
+partly-cloudy-day,Reaction to Uninvolved Vehicle,23000,254,0.011043478260869564
+partly-cloudy-day,Fell Asleep,23000,36,0.001565217391304348
+partly-cloudy-day,Tire Failure/Inadequate,23000,12,5.217391304347826E-4
+partly-cloudy-day,Outside Car Distraction,23000,43,0.0018695652173913043
+partly-cloudy-day,Fatigued/Drowsy,23000,16,6.956521739130435E-4
+partly-cloudy-day,Driver Inattention/Distraction,23000,5329,0.23169565217391305
+partly-cloudy-day,Failure to Keep Right,23000,26,0.0011304347826086956
+partly-cloudy-day,Obstruction/Debris,23000,29,0.0012608695652173913
+partly-cloudy-day,Unsafe Lane Changing,23000,394,0.017130434782608697
+partly-cloudy-day,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,23000,127,0.005521739130434782
+partly-cloudy-day,Passenger Distraction,23000,61,0.0026521739130434784
+partly-cloudy-day,Alcohol Involvement,23000,102,0.004434782608695652
+partly-cloudy-day,Traffic Control Device Improper/Non-Working,23000,8,3.4782608695652176E-4
+partly-cloudy-day,Backing Unsafely,23000,1405,0.06108695652173913
+partly-cloudy-day,Brakes Defective,23000,88,0.0038260869565217392
+partly-cloudy-day,Eating or Drinking,23000,2,8.695652173913044E-5
+partly-cloudy-day,Failure to Yield Right-of-Way,23000,1736,0.07547826086956522
+partly-cloudy-day,Animals Action,23000,10,4.347826086956522E-4
+partly-cloudy-day,Turning Improperly,23000,489,0.021260869565217392
+partly-cloudy-day,Glare,23000,30,0.0013043478260869566
+partly-cloudy-day,Steering Failure,23000,30,0.0013043478260869566
+partly-cloudy-day,Passing Too Closely,23000,1314,0.057130434782608694
+partly-cloudy-day,Vehicle Vandalism,23000,1,4.347826086956522E-5
+partly-cloudy-day,Pavement Slippery,23000,49,0.002130434782608696
+partly-cloudy-day,Physical Disability,23000,6,2.608695652173913E-4
+partly-cloudy-day,Other Electronic Device,23000,1,4.347826086956522E-5
+partly-cloudy-day,Cell Phone (hands-free),23000,1,4.347826086956522E-5
+clear-day,Following Too Closely,23199,1471,0.06340790551316867
+clear-day,Traffic Control Disregarded,23199,378,0.01629380576748998
+clear-day,Driverless/Runaway Vehicle,23199,27,0.001163843269106427
+clear-day,Accelerator Defective,23199,16,6.89684900211216E-4
+clear-day,Unsafe Speed,23199,218,0.009396956765377818
+clear-day,Tinted Windows,23199,1,4.3105306263201E-5
+clear-day,Oversized Vehicle,23199,218,0.009396956765377818
+clear-day,Passing or Lane Usage Improper,23199,984,0.042415621362989785
+clear-day,Lane Marking Improper/Inadequate,23199,6,2.58631837579206E-4
+clear-day,Other Lighting Defects,23199,3,1.29315918789603E-4
+clear-day,Aggressive Driving/Road Rage,23199,90,0.00387947756368809
+clear-day,Other Vehicular,23199,593,0.025561446614078193
+clear-day,Driver Inexperience,23199,377,0.016250700461226775
+clear-day,Tow Hitch Defective,23199,3,1.29315918789603E-4
+clear-day,Illnes,23199,23,9.91422044053623E-4
+clear-day,Unspecified,23199,6776,0.29208155523944995
+clear-day,Pavement Defective,23199,30,0.00129315918789603
+clear-day,Prescription Medication,23199,2,8.6210612526402E-5
+clear-day,View Obstructed/Limited,23199,206,0.008879693090219406
+clear-day,Lost Consciousness,23199,23,9.91422044053623E-4
+clear-day,Reaction to Uninvolved Vehicle,23199,252,0.010862537178326652
+clear-day,Fell Asleep,23199,39,0.001681106944264839
+clear-day,Tire Failure/Inadequate,23199,22,9.48316737790422E-4
+clear-day,Outside Car Distraction,23199,40,0.00172421225052804
+clear-day,Fatigued/Drowsy,23199,10,4.3105306263201E-4
+clear-day,Driver Inattention/Distraction,23199,5337,0.23005301952670373
+clear-day,Listening/Using Headphones,23199,1,4.3105306263201E-5
+clear-day,Failure to Keep Right,23199,19,8.19000819000819E-4
+clear-day,Obstruction/Debris,23199,37,0.001594896331738437
+clear-day,Unsafe Lane Changing,23199,428,0.01844907108065003
+clear-day,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,23199,148,0.006379585326953748
+clear-day,Passenger Distraction,23199,77,0.003319108582266477
+clear-day,Alcohol Involvement,23199,86,0.003707056338635286
+clear-day,Traffic Control Device Improper/Non-Working,23199,5,2.15526531316005E-4
+clear-day,Backing Unsafely,23199,1393,0.06004569162463899
+clear-day,Brakes Defective,23199,76,0.003276003276003276
+clear-day,Eating or Drinking,23199,2,8.6210612526402E-5
+clear-day,Failure to Yield Right-of-Way,23199,1740,0.07500323289796974
+clear-day,Animals Action,23199,9,3.87947756368809E-4
+clear-day,Turning Improperly,23199,523,0.022544075175654123
+clear-day,Glare,23199,92,0.003965688176214492
+clear-day,Steering Failure,23199,34,0.001465580412948834
+clear-day,Passing Too Closely,23199,1328,0.05724384671753093
+clear-day,Vehicle Vandalism,23199,7,3.01737143842407E-4
+clear-day,Pavement Slippery,23199,43,0.001853528169317643
+clear-day,Physical Disability,23199,5,2.15526531316005E-4
+clear-day,Other Electronic Device,23199,1,4.3105306263201E-5
+rain,Following Too Closely,5251,314,0.05979813368882118
+rain,Traffic Control Disregarded,5251,103,0.019615311369263
+rain,Driverless/Runaway Vehicle,5251,4,7.617596648257475E-4
+rain,Accelerator Defective,5251,2,3.8087983241287375E-4
+rain,Windshield Inadequate,5251,1,1.9043991620643687E-4
+rain,Unsafe Speed,5251,76,0.014473433631689202
+rain,Oversized Vehicle,5251,38,0.007236716815844601
+rain,Passing or Lane Usage Improper,5251,173,0.03294610550371358
+rain,Lane Marking Improper/Inadequate,5251,4,7.617596648257475E-4
+rain,Other Lighting Defects,5251,1,1.9043991620643687E-4
+rain,Aggressive Driving/Road Rage,5251,17,0.003237478575509427
+rain,Other Vehicular,5251,109,0.020757950866501618
+rain,Driver Inexperience,5251,71,0.013521234050657019
+rain,Tow Hitch Defective,5251,1,1.9043991620643687E-4
+rain,Illnes,5251,6,0.0011426394972386211
+rain,Unspecified,5251,1640,0.3123214625785565
+rain,Pavement Defective,5251,3,5.713197486193106E-4
+rain,View Obstructed/Limited,5251,75,0.014282993715482766
+rain,Lost Consciousness,5251,3,5.713197486193106E-4
+rain,Reaction to Uninvolved Vehicle,5251,48,0.009141115977908969
+rain,Fell Asleep,5251,12,0.0022852789944772423
+rain,Tire Failure/Inadequate,5251,4,7.617596648257475E-4
+rain,Outside Car Distraction,5251,6,0.0011426394972386211
+rain,Fatigued/Drowsy,5251,4,7.617596648257475E-4
+rain,Driver Inattention/Distraction,5251,1133,0.21576842506189298
+rain,Failure to Keep Right,5251,8,0.001523519329651495
+rain,Obstruction/Debris,5251,12,0.0022852789944772423
+rain,Unsafe Lane Changing,5251,89,0.01694915254237288
+rain,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,5251,28,0.005332317653780233
+rain,Passenger Distraction,5251,15,0.002856598743096553
+rain,Alcohol Involvement,5251,61,0.011616834888592649
+rain,Traffic Control Device Improper/Non-Working,5251,4,7.617596648257475E-4
+rain,Backing Unsafely,5251,233,0.044372500476099794
+rain,Brakes Defective,5251,29,0.0055227575699866695
+rain,Headlights Defective,5251,1,1.9043991620643687E-4
+rain,Failure to Yield Right-of-Way,5251,466,0.08874500095219959
+rain,Animals Action,5251,7,0.0013330794134450582
+rain,Turning Improperly,5251,98,0.018663111788230814
+rain,Steering Failure,5251,12,0.0022852789944772423
+rain,Glare,5251,1,1.9043991620643687E-4
+rain,Passing Too Closely,5251,216,0.04113502190059037
+rain,Pavement Slippery,5251,123,0.023424109693391735
+cloudy,Following Too Closely,11269,646,0.05732540598100985
+cloudy,Traffic Control Disregarded,11269,175,0.015529328245629604
+cloudy,Accelerator Defective,11269,4,3.549560741858195E-4
+cloudy,Driverless/Runaway Vehicle,11269,4,3.549560741858195E-4
+cloudy,Windshield Inadequate,11269,2,1.7747803709290975E-4
+cloudy,Unsafe Speed,11269,143,0.012689679652143047
+cloudy,Oversized Vehicle,11269,75,0.006655426390984116
+cloudy,Passing or Lane Usage Improper,11269,448,0.03975508030881179
+cloudy,Lane Marking Improper/Inadequate,11269,6,5.324341112787292E-4
+cloudy,Other Lighting Defects,11269,2,1.7747803709290975E-4
+cloudy,Aggressive Driving/Road Rage,11269,49,0.004348211908776289
+cloudy,Other Vehicular,11269,262,0.023249622859171176
+cloudy,Driver Inexperience,11269,184,0.016327979412547697
+cloudy,Tow Hitch Defective,11269,2,1.7747803709290975E-4
+cloudy,Illnes,11269,13,0.0011536072411039134
+cloudy,Unspecified,11269,3492,0.30987665276422044
+cloudy,Pavement Defective,11269,16,0.001419824296743278
+cloudy,View Obstructed/Limited,11269,104,0.009228857928831307
+cloudy,Lost Consciousness,11269,5,4.4369509273227436E-4
+cloudy,Reaction to Uninvolved Vehicle,11269,114,0.010116248114295855
+cloudy,Fell Asleep,11269,31,0.0027509095749401013
+cloudy,Tire Failure/Inadequate,11269,11,9.761292040110037E-4
+cloudy,Outside Car Distraction,11269,24,0.002129736445114917
+cloudy,Fatigued/Drowsy,11269,7,6.211731298251842E-4
+cloudy,Driver Inattention/Distraction,11269,2537,0.225130890052356
+cloudy,Failure to Keep Right,11269,9,7.986511669180939E-4
+cloudy,Obstruction/Debris,11269,19,0.0016860413523826427
+cloudy,Unsafe Lane Changing,11269,178,0.01579554530126897
+cloudy,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,11269,66,0.005856775224066022
+cloudy,Passenger Distraction,11269,31,0.0027509095749401013
+cloudy,Alcohol Involvement,11269,116,0.010293726151388766
+cloudy,Traffic Control Device Improper/Non-Working,11269,5,4.4369509273227436E-4
+cloudy,Backing Unsafely,11269,618,0.054840713461709115
+cloudy,Brakes Defective,11269,43,0.0038157777974975595
+cloudy,Eating or Drinking,11269,1,8.873901854645488E-5
+cloudy,Failure to Yield Right-of-Way,11269,879,0.07800159730233383
+cloudy,Animals Action,11269,2,1.7747803709290975E-4
+cloudy,Turning Improperly,11269,229,0.020321235247138168
+cloudy,Steering Failure,11269,20,0.0017747803709290974
+cloudy,Glare,11269,6,5.324341112787292E-4
+cloudy,Passing Too Closely,11269,599,0.05315467210932647
+cloudy,Vehicle Vandalism,11269,1,8.873901854645488E-5
+cloudy,Pavement Slippery,11269,86,0.007631555594995119
+cloudy,Physical Disability,11269,4,3.549560741858195E-4
+cloudy,Other Electronic Device,11269,1,8.873901854645488E-5
+sleet,Following Too Closely,58,2,0.034482758620689655
+sleet,Traffic Control Disregarded,58,1,0.017241379310344827
+sleet,Unsafe Speed,58,1,0.017241379310344827
+sleet,Passing or Lane Usage Improper,58,2,0.034482758620689655
+sleet,Unspecified,58,22,0.3793103448275862
+sleet,View Obstructed/Limited,58,1,0.017241379310344827
+sleet,Driver Inattention/Distraction,58,10,0.1724137931034483
+sleet,Unsafe Lane Changing,58,1,0.017241379310344827
+sleet,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,58,1,0.017241379310344827
+sleet,Brakes Defective,58,1,0.017241379310344827
+sleet,Backing Unsafely,58,2,0.034482758620689655
+sleet,Failure to Yield Right-of-Way,58,5,0.08620689655172414
+sleet,Passing Too Closely,58,1,0.017241379310344827
+sleet,Pavement Slippery,58,8,0.13793103448275862
+clear-night,Following Too Closely,11432,629,0.05502099370188943
+clear-night,Traffic Control Disregarded,11432,254,0.022218334499650105
+clear-night,Driverless/Runaway Vehicle,11432,8,6.997900629811056E-4
+clear-night,Accelerator Defective,11432,5,4.3736878936319107E-4
+clear-night,Using On Board Navigation Device,11432,1,8.74737578726382E-5
+clear-night,Unsafe Speed,11432,218,0.01906927921623513
+clear-night,Tinted Windows,11432,2,1.749475157452764E-4
+clear-night,Oversized Vehicle,11432,41,0.0035864240727781667
+clear-night,Passing or Lane Usage Improper,11432,424,0.0370888733379986
+clear-night,Lane Marking Improper/Inadequate,11432,10,8.747375787263821E-4
+clear-night,Other Lighting Defects,11432,6,5.248425472358292E-4
+clear-night,Aggressive Driving/Road Rage,11432,75,0.0065605318404478655
+clear-night,Other Vehicular,11432,279,0.02440517844646606
+clear-night,Driver Inexperience,11432,198,0.017319804058782366
+clear-night,Illnes,11432,10,8.747375787263821E-4
+clear-night,Unspecified,11432,3493,0.30554583624912524
+clear-night,Pavement Defective,11432,10,8.747375787263821E-4
+clear-night,Prescription Medication,11432,1,8.74737578726382E-5
+clear-night,View Obstructed/Limited,11432,87,0.007610216934919524
+clear-night,Lost Consciousness,11432,10,8.747375787263821E-4
+clear-night,Reaction to Uninvolved Vehicle,11432,125,0.010934219734079776
+clear-night,Fell Asleep,11432,61,0.0053358992302309305
+clear-night,Tire Failure/Inadequate,11432,19,0.001662001399580126
+clear-night,Outside Car Distraction,11432,34,0.002974107767669699
+clear-night,Fatigued/Drowsy,11432,15,0.001312106368089573
+clear-night,Driver Inattention/Distraction,11432,2506,0.21920923722883134
+clear-night,Failure to Keep Right,11432,22,0.0019244226731980406
+clear-night,Obstruction/Debris,11432,16,0.0013995801259622112
+clear-night,Unsafe Lane Changing,11432,187,0.016357592722183345
+clear-night,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,11432,71,0.006210636808957313
+clear-night,Passenger Distraction,11432,52,0.004548635409377187
+clear-night,Alcohol Involvement,11432,329,0.02877886634009797
+clear-night,Traffic Control Device Improper/Non-Working,11432,6,5.248425472358292E-4
+clear-night,Backing Unsafely,11432,497,0.04347445766270119
+clear-night,Brakes Defective,11432,51,0.004461161651504549
+clear-night,Eating or Drinking,11432,4,3.498950314905528E-4
+clear-night,Failure to Yield Right-of-Way,11432,885,0.07741427571728482
+clear-night,Animals Action,11432,11,9.622113365990203E-4
+clear-night,Glare,11432,12,0.0010496850944716584
+clear-night,Turning Improperly,11432,249,0.021780965710286915
+clear-night,Steering Failure,11432,29,0.002536738978306508
+clear-night,Passing Too Closely,11432,438,0.03831350594821554
+clear-night,Vehicle Vandalism,11432,1,8.74737578726382E-5
+clear-night,Pavement Slippery,11432,45,0.003936319104268719
+clear-night,Physical Disability,11432,2,1.749475157452764E-4
+clear-night,Other Electronic Device,11432,3,2.624212736179146E-4
+clear-night,Cell Phone (hands-free),11432,1,8.74737578726382E-5
+wind,Following Too Closely,66,4,0.06060606060606061
+wind,Oversized Vehicle,66,2,0.030303030303030304
+wind,Passing or Lane Usage Improper,66,2,0.030303030303030304
+wind,Driver Inexperience,66,1,0.015151515151515152
+wind,Unspecified,66,27,0.4090909090909091
+wind,View Obstructed/Limited,66,1,0.015151515151515152
+wind,Reaction to Uninvolved Vehicle,66,1,0.015151515151515152
+wind,Driver Inattention/Distraction,66,9,0.13636363636363635
+wind,Unsafe Lane Changing,66,2,0.030303030303030304
+wind,Traffic Control Device Improper/Non-Working,66,1,0.015151515151515152
+wind,Backing Unsafely,66,2,0.030303030303030304
+wind,Failure to Yield Right-of-Way,66,2,0.030303030303030304
+wind,Turning Improperly,66,4,0.06060606060606061
+wind,Passing Too Closely,66,8,0.12121212121212122
+partly-cloudy-night,Following Too Closely,7655,428,0.05591116917047681
+partly-cloudy-night,Traffic Control Disregarded,7655,175,0.022860875244937948
+partly-cloudy-night,Accelerator Defective,7655,5,6.531678641410843E-4
+partly-cloudy-night,Driverless/Runaway Vehicle,7655,6,7.838014369693011E-4
+partly-cloudy-night,Using On Board Navigation Device,7655,1,1.3063357282821686E-4
+partly-cloudy-night,Unsafe Speed,7655,140,0.018288700195950358
+partly-cloudy-night,Tinted Windows,7655,2,2.612671456564337E-4
+partly-cloudy-night,Oversized Vehicle,7655,40,0.005225342913128674
+partly-cloudy-night,Passing or Lane Usage Improper,7655,282,0.03683866753755715
+partly-cloudy-night,Lane Marking Improper/Inadequate,7655,5,6.531678641410843E-4
+partly-cloudy-night,Other Lighting Defects,7655,2,2.612671456564337E-4
+partly-cloudy-night,Aggressive Driving/Road Rage,7655,44,0.005747877204441541
+partly-cloudy-night,Other Vehicular,7655,191,0.02495101241018942
+partly-cloudy-night,Driver Inexperience,7655,135,0.017635532331809273
+partly-cloudy-night,Texting,7655,1,1.3063357282821686E-4
+partly-cloudy-night,Illnes,7655,9,0.0011757021554539516
+partly-cloudy-night,Unspecified,7655,2355,0.3076420640104507
+partly-cloudy-night,Pavement Defective,7655,7,9.14435009797518E-4
+partly-cloudy-night,View Obstructed/Limited,7655,71,0.009274983670803396
+partly-cloudy-night,Lost Consciousness,7655,10,0.0013063357282821686
+partly-cloudy-night,Reaction to Uninvolved Vehicle,7655,74,0.009666884389288047
+partly-cloudy-night,Fell Asleep,7655,55,0.007184846505551927
+partly-cloudy-night,Tire Failure/Inadequate,7655,9,0.0011757021554539516
+partly-cloudy-night,Outside Car Distraction,7655,15,0.001959503592423253
+partly-cloudy-night,Fatigued/Drowsy,7655,9,0.0011757021554539516
+partly-cloudy-night,Driver Inattention/Distraction,7655,1614,0.210842586544742
+partly-cloudy-night,Failure to Keep Right,7655,11,0.0014369693011103853
+partly-cloudy-night,Obstruction/Debris,7655,11,0.0014369693011103853
+partly-cloudy-night,Unsafe Lane Changing,7655,126,0.016459830176355324
+partly-cloudy-night,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,7655,55,0.007184846505551927
+partly-cloudy-night,Passenger Distraction,7655,34,0.004441541476159373
+partly-cloudy-night,Alcohol Involvement,7655,210,0.027433050293925537
+partly-cloudy-night,Traffic Control Device Improper/Non-Working,7655,8,0.001045068582625735
+partly-cloudy-night,Backing Unsafely,7655,344,0.044937949052906594
+partly-cloudy-night,Brakes Defective,7655,27,0.003527106466361855
+partly-cloudy-night,Eating or Drinking,7655,1,1.3063357282821686E-4
+partly-cloudy-night,Headlights Defective,7655,3,3.9190071848465056E-4
+partly-cloudy-night,Failure to Yield Right-of-Way,7655,576,0.0752449379490529
+partly-cloudy-night,Animals Action,7655,5,6.531678641410843E-4
+partly-cloudy-night,Turning Improperly,7655,161,0.021032005225342914
+partly-cloudy-night,Steering Failure,7655,13,0.0016982364467668192
+partly-cloudy-night,Glare,7655,1,1.3063357282821686E-4
+partly-cloudy-night,Passing Too Closely,7655,297,0.03879817112998041
+partly-cloudy-night,Pavement Slippery,7655,83,0.010842586544742
+partly-cloudy-night,Physical Disability,7655,3,3.9190071848465056E-4
+partly-cloudy-night,Other Electronic Device,7655,1,1.3063357282821686E-4
+snow,Following Too Closely,628,40,0.06369426751592357
+snow,Traffic Control Disregarded,628,13,0.020700636942675158
+snow,Driverless/Runaway Vehicle,628,3,0.004777070063694267
+snow,Unsafe Speed,628,7,0.011146496815286623
+snow,Oversized Vehicle,628,5,0.007961783439490446
+snow,Passing or Lane Usage Improper,628,14,0.022292993630573247
+snow,Lane Marking Improper/Inadequate,628,1,0.0015923566878980893
+snow,Aggressive Driving/Road Rage,628,3,0.004777070063694267
+snow,Other Vehicular,628,17,0.027070063694267517
+snow,Driver Inexperience,628,8,0.012738853503184714
+snow,Unspecified,628,206,0.32802547770700635
+snow,View Obstructed/Limited,628,9,0.014331210191082803
+snow,Reaction to Uninvolved Vehicle,628,4,0.006369426751592357
+snow,Fell Asleep,628,1,0.0015923566878980893
+snow,Outside Car Distraction,628,4,0.006369426751592357
+snow,Driver Inattention/Distraction,628,101,0.160828025477707
+snow,Failure to Keep Right,628,1,0.0015923566878980893
+snow,Obstruction/Debris,628,2,0.0031847133757961785
+snow,Unsafe Lane Changing,628,8,0.012738853503184714
+snow,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,628,2,0.0031847133757961785
+snow,Alcohol Involvement,628,5,0.007961783439490446
+snow,Brakes Defective,628,4,0.006369426751592357
+snow,Backing Unsafely,628,22,0.03503184713375796
+snow,Failure to Yield Right-of-Way,628,45,0.07165605095541401
+snow,Turning Improperly,628,8,0.012738853503184714
+snow,Steering Failure,628,1,0.0015923566878980893
+snow,Passing Too Closely,628,28,0.044585987261146494
+snow,Pavement Slippery,628,66,0.10509554140127389
