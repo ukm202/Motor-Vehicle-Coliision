@@ -16,6 +16,10 @@ assessing how likely a collision is given information
 on traffic as well as weather conditions in the area.
   </p>
 ## Team members
+<p>
 * Ngoc Nhu Hoang - nnh245@nyu.edu [NgocGithub] (https://github.com/nhungoc1508)
+</p>
+<p>
 * Uttam Mishra - ukm202 [UttamGithub] (https://github.com/uttam)
+ </p>
   
