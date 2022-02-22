@@ -19,6 +19,6 @@ on traffic as well as weather conditions in the area.
 * Ngoc Nhu Hoang - nnh245@nyu.edu [NgocGithub] (https://github.com/nhungoc1508)
 
 
-* Uttam Mishra - ukm202 [UttamGithub] (https://github.com/uttam)
+* Uttam Mishra - ukm202 [UttamGithub] (https://github.com/ukm202)
 
   
